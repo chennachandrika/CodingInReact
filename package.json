@@ -1,0 +1,11 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "React Dev",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chandrika",
+  "license": "ISC"
+}
